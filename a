@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "Celeste Theme",
+    "description": "This is it. Just breathe. Why ar you so nervous? You can do this.",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "developer":
+    {
+        "name": "danielddenial"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/Boss_Theme_-_layer-001.mp3",
+                "music/Boss_Theme_-_layer-002.mp3",
+                "music/Boss_Theme_-_layer-003.mp3",
+                "music/Boss_Theme_-_layer-004.mp3",
+                "music/Boss_Theme_-_layer-005.mp3"
+            ]
+        }
+    }
+}
