@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "CelesteMOD",
+    "description": "Breath. You can do this.",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.jpg"
+    },
+    "developer":
+    {
+        "name": "danielddenial"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "wallpaper":
+            {
+                "image": "wallpaper/wallpaper.m4v"
+            },
+            "background_music":
+            [
+                "music/layer1.mp3",
+                "music/layer2.mp3",
+                "music/layer3.mp3",
+                "music/layer4.mp3"
+            ],
+        }
+    }
+}
